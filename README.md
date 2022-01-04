@@ -1,6 +1,6 @@
-# practice-app
+# responsive navbar component
 
-> A Vue.js project
+> A Vue.js starter navbar, with mobile responsiveness
 
 ## Build Setup
 
